@@ -8,7 +8,7 @@ const Index = () => {
             <div className='m-auto text-center'>
                 <div className='inline-block'>
                     <h1 id='name'>Wasim</h1>
-                    <h2 id='title'>Freelance Marketing Expert, <Link href="https://vercel.com">Vercel</Link></h2>
+                    <h2 id='title'>Freelance Marketing Expert</h2>
                 </div >
                 <div style={{ height: '1.5rem' }} />
                 <p id="social">
