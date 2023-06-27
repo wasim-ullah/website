@@ -12,9 +12,7 @@ const Index = () => {
                 </div >
                 <div style={{ height: '1.5rem' }} />
                 <p id="social">
-                    <Link href="https://twitter.com/wasimxullah" target="_blank">Twitter</Link> |{' '}
-                    <Link href="https://www.linkedin.com/in/wasim-ullah" target="_blank">LinkedIn</Link> |{' '}
-                    <Link href="https://cal.com/wasim" target="_blank">Cal.com</Link>
+                    <Link href="https://www.linkedin.com/in/wasim-ullah" target="_blank">LinkedIn</Link>
                 </p>
             </div >
             <video autoPlay loop muted src="white1.mp4"></video>
